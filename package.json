@@ -45,7 +45,7 @@
 	},
 	"dependencies": {
 		"chalk": "^5.0.0",
-		"glob": "^7.2.0",
+		"glob": "^11.0.3",
 		"graphql": "^16.0.1",
 		"json5": "^2.2.0",
 		"through2": "^4.0.2",
